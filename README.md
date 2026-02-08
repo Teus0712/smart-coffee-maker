@@ -13,14 +13,15 @@ Para demonstrar minhas competências técnicas e evolução na programação, es
 
 ## 📂 Projetos em Destaque
 
-### ☕ 1. Smart Coffee Maker
-Uma aplicação robusta que simula o funcionamento de uma cafeteira moderna, utilizando os pilares da Programação Orientada a Objetos.
+### 🎬 1. CineBooking System
+Meu projeto mais recente focado em gestão de dados dinâmicos e experiência do usuário via terminal.
+* **Destaque Técnico**: Manipulação de listas (`ArrayList`) e lógica de reserva/cancelamento em tempo real.
+* **Acesso ao Código**: [Clique aqui para ver o projeto](./CineBooking).
 
-* **Lógica de Negócio**: Controle de níveis de insumos, seleção de tipos de café e validação de estados da máquina.
-* **POO Aplicada**: Uso intensivo de **Encapsulamento** (proteção de dados sensíveis), **Classes de Entidade** e **Separação de Responsabilidades**.
+### ☕ 2. Smart Coffee Maker
+Aplicação que simula uma cafeteira moderna, focando nos pilares de Encapsulamento da POO.
+* **Destaque Técnico**: Controle de estados e proteção de dados sensíveis.
 * **Acesso ao Código**: [Clique aqui para ver o projeto](./smart-coffee-maker).
-
----
 
 ## 🧠 Diferenciais Técnicos
 Neste repositório, busco aplicar padrões que elevam a qualidade do código:
